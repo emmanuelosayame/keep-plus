@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667914532038",
+    "project_id": "keep-plus-4ec08",
+    "storage_bucket": "keep-plus-4ec08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667914532038:android:11370f878d7a98facc53c7",
+        "android_client_info": {
+          "package_name": "com.biglevvi.keepplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667914532038-59n1nt8uc5arktj12m84308486u6m2ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR2th8Av2u5meuRtWavJxU1yM7FDYSTM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667914532038-59n1nt8uc5arktj12m84308486u6m2ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
